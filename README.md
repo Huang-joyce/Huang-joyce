@@ -1,9 +1,9 @@
 ### Hi there 👋
-My name is Huang,Yu-chi.
-I grew up in New Taipei City.
-I am currently studying at Yuan Ze University.
-I am learning Vue recently.
-I hope to be a Front-end developer.
+My name is Huang,Yu-chi.<br>
+I grew up in New Taipei City.<br>
+I am currently studying at Yuan Ze University.<br>
+I am learning Vue recently.<br>
+I hope to be a Front-end developer.<br>
 
 
 <!--
