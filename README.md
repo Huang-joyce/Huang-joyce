@@ -1,4 +1,10 @@
 ### Hi there 👋
+My name is Huang,Yu-chi.
+I grew up in New Taipei City.
+I am currently studying at Yuan Ze University.
+I am learning Vue recently.
+I hope to be a Front-end developer.
+
 
 <!--
 **Huang-joyce/Huang-joyce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
